@@ -1,0 +1,52 @@
+# Build directories
+build/
+bin/
+obj/
+dist/
+
+# IDE
+.vs/
+.vscode/
+*.sln
+*.vcxproj*
+*.user
+*.filters
+
+# Compiled binaries
+*.dll
+*.exe
+*.lib
+*.obj
+*.pdb
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Dependencies
+sdk/
+lib/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Dependencies
+packages/
+.conan/
+
+# Environment
+.env
+.venv
